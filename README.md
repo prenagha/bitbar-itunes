@@ -2,7 +2,7 @@
 
 Lightweight iTunes plugin for [BitBar](https://gitbitbar.com)
 
-![Screenshot](https://raw.githubusercontent.com/prenagha/bitbar-itunes/bbitunes.png)
+![Screenshot](bbitunes.png)
 
 # Installation & Setup
 
