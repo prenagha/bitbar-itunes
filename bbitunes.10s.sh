@@ -18,7 +18,7 @@
 # <bitbar.abouturl>https://github.com/prenagha/bitbar-itunes</bitbar.abouturl>
 
 # set this to the directory of the cloned/downloaded github repo
-BBITUNES_DIR="$HOME/Dev/bitbar-itunes"
+BBITUNES_DIR="${HOME}/Dev/bitbar-itunes"
 
 # this will point to the .applescript source file in the repo
 APPLESCRIPT="${BBITUNES_DIR}/bbitunes.applescript"
