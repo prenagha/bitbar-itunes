@@ -1,6 +1,6 @@
 # BitBar iTunes Lite
 
-Lightweight iTunes plugin for [BitBar](https://gitbitbar.com)
+Lightweight iTunes plugin for [BitBar](https://getbitbar.com)
 
 ![Screenshot](bbitunes.png)
 
