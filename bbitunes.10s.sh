@@ -51,4 +51,4 @@ then
 fi
 
 # run the compiled applescript which does all the work to talk to iTunes
-/usr/bin/osascript "${COMPILED}" "${COMPILED}" $1
+/usr/bin/osascript "${COMPILED}" "${BASH_SOURCE}" $1
