@@ -27,7 +27,7 @@ APPLESCRIPT="${BBITUNES_DIR}/bbitunes.applescript"
 COMPILED="${BBITUNES_DIR}/bbitunes.scpt"
 
 # link to installation instructions
-SETUP="View Setup Instructions | bash=/usr/bin/open param1=https://github.com/prenagha/bitbar-itunes terminal=false\nVersion $VER"
+SETUP="View Setup Instructions | bash=/usr/bin/open param1=https://github.com/prenagha/bitbar-itunes terminal=false"
 
 # check that we can find the repo dir
 if [ ! -d "${BBITUNES_DIR}" ]
@@ -39,7 +39,7 @@ fi
 # check that the source file is in the repo dir
 if [ ! -f "${APPLESCRIPT}" ]
 then
-  echo -e "Source not found\n---\n${APPLESCRIPT} not found\n${SETUP}"
+  echo -e "Applescript not found\n---\n${APPLESCRIPT} not found\n${SETUP}"
   exit 2
 fi
 
