@@ -13,8 +13,8 @@
 # <bitbar.author>Padraic Renaghan</bitbar.author>
 # <bitbar.author.github>prenagha</bitbar.author.github>
 # <bitbar.desc>Display current track info from iTunes</bitbar.desc>
-# <bitbar.image>https://raw.githubusercontent.com/prenagha/bitbar-itunes/bbitunes.png</bitbar.image>
-# <bitbar.dependencies>iTunes-Lite applescript</bitbar.dependencies>
+# <bitbar.image>https://github.com/prenagha/bitbar-itunes/raw/master/bbitunes.png</bitbar.image>
+# <bitbar.dependencies>iTunes Lite applescript</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/prenagha/bitbar-itunes</bitbar.abouturl>
 
 # set this to the directory of the cloned/downloaded github repo
